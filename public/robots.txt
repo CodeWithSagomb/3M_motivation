@@ -1,0 +1,9 @@
+# Coach 3M - robots.txt
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://coach3m.com/sitemap.xml
+
+# Disallow API routes
+Disallow: /api/

@@ -1,0 +1,1 @@
+export { BioPage } from './BioPage';
