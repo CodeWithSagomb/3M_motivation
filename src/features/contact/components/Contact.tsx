@@ -123,7 +123,7 @@ export const Contact: React.FC = () => {
                                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                                     <Input
                                         label="Nom Complet"
-                                        placeholder="John Doe"
+                                        placeholder="cSagombaye"
                                         value={formData.name}
                                         onChange={(e) => handleChange('name', e.target.value)}
                                         required
