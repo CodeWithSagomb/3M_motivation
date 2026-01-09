@@ -1,6 +1,5 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import {
-    Zap,
     Flame,
     Heart,
     Award,
@@ -10,10 +9,8 @@ import {
     X,
     CheckCircle2,
     ArrowRight,
-    Play,
     Film
 } from 'lucide-react';
-import { cn } from '@/lib/utils';
 import { Button } from '@/shared/components';
 
 interface MotivationPillar {

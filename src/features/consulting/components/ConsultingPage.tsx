@@ -13,7 +13,6 @@ import {
     Layers,
     Zap
 } from 'lucide-react';
-import { cn } from '@/lib/utils';
 import { Button } from '@/shared/components';
 
 interface ExpertiseDetail {

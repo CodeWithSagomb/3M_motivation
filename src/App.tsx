@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { Navigation, Footer } from '@/shared/components';
 import { Hero, Stats, Services, About, Testimonials } from '@/features/home';
 import { Contact } from '@/features/contact';

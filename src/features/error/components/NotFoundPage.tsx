@@ -1,5 +1,5 @@
 import React from 'react';
-import { Home, ArrowLeft, Search, MessageSquare } from 'lucide-react';
+import { Home, Search, MessageSquare } from 'lucide-react';
 import { Button } from '@/shared/components';
 
 interface NotFoundPageProps {
